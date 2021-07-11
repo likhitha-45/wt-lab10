@@ -1,0 +1,1 @@
+I created table "register" in my database with table name as "info" having attributes Name,Email,Password,Phonenumber. Using the registration form we can insert the data into table by using sql queries.
